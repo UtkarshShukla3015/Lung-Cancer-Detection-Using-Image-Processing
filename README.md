@@ -1,4 +1,6 @@
-![Abnormal](https://github.com/user-attachments/assets/638733ae-5964-41db-a5c0-c6d5eb1ff8ff)
+![Output1](https://github.com/user-attachments/assets/8aaa3d06-72d3-4302-9d20-b4a2ab92d743)
+![Output2](https://github.com/user-attachments/assets/c8239774-fc67-4bf3-ba95-c01d84e5f40d)
+![Output3](https://github.com/user-attachments/assets/afa9a5ec-39cd-42ae-9311-ca220f31a0ef)
 # Lung-Cancer-Detection-Using-Image-Processing
 This project detects lung cancer from CT scan images using image processing and a fine-tuned DeiT model. Trained on 1400 labeled images, it classifies scans as cancerous or non-cancerous with high accuracy. Future plans include real-time deployment and 3D scan support.
 
